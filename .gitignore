@@ -1,2 +1,4 @@
 test/**
 a.txt
+object_script_1.*.Debug
+object_script.*.Release
