@@ -3,3 +3,4 @@ def say_hello():
 
 if __name__ == '__main__':
 	print('123')
+	print('hello world')
