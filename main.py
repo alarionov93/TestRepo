@@ -6,3 +6,6 @@ def func1():
 
 if __name__ == '__main__':
 	print('123')
+	a = [1,2,3]
+	for i in a:
+		print(i*2)
